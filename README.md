@@ -26,7 +26,9 @@ Consists of :
 
 #Steps to run the application : 
 
+- Put req_topics.sh and res_topics.sh scripts in your kafka folder
 
+- Execute both the scripts
 
 - cd kayak_frontend
 	- npm install
