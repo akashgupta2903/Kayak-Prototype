@@ -24,5 +24,19 @@ Consists of :
 
 ![image](https://user-images.githubusercontent.com/20701737/33895997-9cf0348c-df16-11e7-8f0b-def31f7b6b37.png)
 
-    
+#Steps to run the application : 
+
+
+
+- cd kayak_frontend
+	- npm install
+	- npm start
+
+- cd kayak_backend
+	- npm install
+	- npm start
+
+- cd kafka_backend
+	- npm install
+	- npm start
    
