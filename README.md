@@ -16,6 +16,12 @@ Consists of :
 
 <img width="1280" alt="screen shot 2017-12-03 at 3 09 20 am" src="https://user-images.githubusercontent.com/20701737/33895481-7407af06-df15-11e7-967f-3665376f7b0e.png">
 
+<img width="1280" alt="screen shot 2017-12-03 at 3 09 20 am" src="https://user-images.githubusercontent.com/32351699/33925086-927dbb06-df8d-11e7-8270-eb3701291ddb.png">
+
+<img width="1280" alt="screen shot 2017-12-03 at 3 09 20 am" src="https://user-images.githubusercontent.com/32351699/33925069-8596b370-df8d-11e7-8573-a5609081bd05.png">
+
+<img width="1280" alt="screen shot 2017-12-03 at 3 09 20 am" src="https://user-images.githubusercontent.com/32351699/33925105-9fe61428-df8d-11e7-97d7-08ed87fba6e2.png">
+
 
 
 
@@ -23,6 +29,12 @@ Consists of :
 ![image](https://user-images.githubusercontent.com/20701737/33895808-325b2e9c-df16-11e7-80f1-4d0bec9f8b26.png)
 
 ![image](https://user-images.githubusercontent.com/20701737/33895997-9cf0348c-df16-11e7-8f0b-def31f7b6b37.png)
+
+
+![image](https://user-images.githubusercontent.com/32351699/33925136-b3e9f5d4-df8d-11e7-878e-f40dacac7eb1.png)
+
+
+![image](https://user-images.githubusercontent.com/32351699/33925150-c025e330-df8d-11e7-89bd-e5aec13a5cf7.png)
 
 #Steps to run the application : 
 
